@@ -5,7 +5,7 @@
 ### Churn_Rate: Only result is required. Code messy. Report missing.
 ### Socity:
 1. codes/Influential.zip  
-2  codes/Socity_evaluating_creativity.zip  
+2.  codes/Socity_evaluating_creativity.zip  
 3. codes/Competitors_apps_scraping_and_cleaning.zip (another student done under my guidance)  
 4. Prototype(with another student) https://projects.invisionapp.com/prototype/Socity-cjuebsyk5005xgt01gltrgn4w/play/c2f05600
 
