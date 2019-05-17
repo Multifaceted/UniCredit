@@ -9,6 +9,6 @@
 3. codes/Competitors_apps_scraping_and_cleaning.zip (another student done under my guidance)  
 4. Prototype(with another student) https://projects.invisionapp.com/prototype/Socity-cjuebsyk5005xgt01gltrgn4w/play/c2f05600
 
-### Simulation: I did it for Business Analytics track students' class project (code finished in one day and can be improved). The analysis part is missing.
-### Tedscrape: I did it for Business Analytics students' class project. 
+### Simulation: I did it for the other track students' class project (code finished in one day and can be improved). The analysis part is missing.
+### Tedscrape: I did it for the other track students' class project. 
 ### Restaurant Hygine: All python code. I do not agree with this use of regression.
