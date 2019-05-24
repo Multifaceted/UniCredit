@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Unicredit
-=======
 # UniCredit
->>>>>>> ec67f4e76d7782858ccf071517d5a09bee57ff98
-
 
 ### Energy_Consumption: Only result and report is required. Code messy. precision rank 4 / 70
 ### Churn_Rate: Only result is required. Code messy. Report missing. precision rank 3 / 70
